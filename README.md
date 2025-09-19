@@ -14,4 +14,3 @@ achieved 93.84% accuracy, 92% precision, 91% recall, and a 91% F1-score, with 0.
 response time. The MalSFF demonstrates resilience against FGSM, PGD, and DeepFool
 adversarial attacks. The MalSFF is a lightweight and computationally efficient, well-suited
 for resource-constrained IIoT networks.
-
